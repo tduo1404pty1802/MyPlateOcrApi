@@ -1,0 +1,6 @@
+@MyPlateOcrApi_HostAddress = http://localhost:5034
+
+GET {{MyPlateOcrApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

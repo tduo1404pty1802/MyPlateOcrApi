@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OTNwjks1N7E1sCPfJD/XpvbHYNm3HsUPcjhVc2LfM2c=",
+  "Source": "MyPlateOcrApi",
+  "BasePath": "_content/MyPlateOcrApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
